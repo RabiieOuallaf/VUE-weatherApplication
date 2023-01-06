@@ -1,24 +1,5 @@
-# weather-app
+# This is  a simple weather application built with vue by consuming weatheropenAPI
 
-## Project setup
-```
-npm install
-```
+![alt text](https://cdn.discordapp.com/attachments/1016737697848635614/1060922061607931995/Screenshot_6.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![alt text](https://cdn.discordapp.com/attachments/1016737697848635614/1060922062002208768/Screenshot_7.png)
